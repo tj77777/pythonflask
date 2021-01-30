@@ -20,6 +20,7 @@ pipeline {
              echo "deploy the Application"
          
             }
-        }        
+        }
+      }
    }
 }
