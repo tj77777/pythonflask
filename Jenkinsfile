@@ -16,5 +16,17 @@ pipeline {
                 echo 'deploying the application'
             }
         }
+    post{
+        always{
+            //
+        }
+        success{
+
+        }
+        failure{
+            
+        }
+    }
+
     }
 }
